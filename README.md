@@ -55,13 +55,13 @@ Database : MySQL
 ![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/DoctorRegistration.png)
 
 3. Log In Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
+![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/LogInScreen.png)
 
 4. Password Reset Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
+![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PasswordReset.png)
 
 5. Patient Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
+![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PatientHome.png)
 
 6. Patient Viewing History:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
