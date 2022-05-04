@@ -64,13 +64,13 @@ Database : MySQL
 ![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PatientHome.png)
 
 6. Patient Viewing History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
+![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/ViewingPatientHistory.png)
 
 7. Patient Viewing Appointments:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientViewingAppt.png)
+![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/PatientViewingAppt.png)
 
 8. Patient Scheduling Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/SchedulingAppt.png)
+![alt text](https://github.com/prem1226/Hospital-management-system/blob/main/Screenshots/SchedulingAppt.png)
 
 9. Doctor Home Screen:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
